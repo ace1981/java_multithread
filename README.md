@@ -22,3 +22,5 @@ int interval=1;
 //开始服务
 service.scheduleAtFixedRate(runnable, first, interval, TimeUnit.SECONDS);
 ```
+
+[参考多线程学习](http://blog.csdn.net/lonelyroamer/article/details/7993637)
